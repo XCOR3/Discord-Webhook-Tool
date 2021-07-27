@@ -1,2 +1,2 @@
-# Discord-Tool
-An Simple discord python tool .
+# Discord-Webhook-Tool
+An Simple Discord-Webhook python tool .
